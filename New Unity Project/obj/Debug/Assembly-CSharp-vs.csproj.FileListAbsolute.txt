@@ -1,0 +1,13 @@
+F:\Krsovaya\New Unity Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Krsovaya\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Krsovaya\New Unity Project\obj\Debug\Assembly-CSharp.dll
+F:\Krsovaya\New Unity Project\obj\Debug\Assembly-CSharp.pdb
